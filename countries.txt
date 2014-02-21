@@ -1,5 +1,5 @@
 List of countries:
 
 * Denmark
-* SPAIN
+* Spain
 * ...
