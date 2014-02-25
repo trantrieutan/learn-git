@@ -2,5 +2,5 @@ List of countries:
 
 * Denmark
 * Spain
-* VIETNAM
+* Viet Nam
 * ...
