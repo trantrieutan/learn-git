@@ -3,5 +3,5 @@ List of countries:
 * Denmark
 * Spain
 * Viet Nam
-* THAILAND
+* Thailand
 * ...
