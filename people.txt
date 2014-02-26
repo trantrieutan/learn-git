@@ -5,4 +5,5 @@ Add your name in the following list:
 * Thong
 * Dieu
 * Phuong
+* Lu
 * ...
