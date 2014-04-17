@@ -5,3 +5,4 @@ List of countries:
 * Viet Nam
 * Thailand
 * Korea
+* Guatemala
