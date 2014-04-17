@@ -9,3 +9,4 @@ Add your name in the following list:
 * Tuan
 * Phuong Vu
 * Tiep
+* Jacob
