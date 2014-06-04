@@ -6,4 +6,3 @@ List of countries:
 * Thailand
 * Korea
 * Guatemala
-* THAILAND
