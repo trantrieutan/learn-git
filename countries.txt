@@ -7,3 +7,5 @@ List of countries:
 * Korea
 * Guatemala
 * Japan
+* Guatemala Monte
+* GUATEMALA
