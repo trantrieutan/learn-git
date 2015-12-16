@@ -9,3 +9,5 @@ List of countries:
 * Japan
 * Guatemala Monte
 * GUATEMALA
+* China
+* Lao
