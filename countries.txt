@@ -12,3 +12,4 @@ List of countries:
 * China
 * Lao
 * Campuchia
+* Myanmar
