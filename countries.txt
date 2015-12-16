@@ -11,3 +11,4 @@ List of countries:
 * GUATEMALA
 * China
 * Lao
+* Campuchia
