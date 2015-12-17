@@ -16,3 +16,4 @@ Add your name in the following list:
 * Mathew
 * Thang
 * Duc
+* Duc2
