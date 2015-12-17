@@ -13,3 +13,4 @@ List of countries:
 * Lao
 * Campuchia
 * Myanmar
+* SINGAPORE
